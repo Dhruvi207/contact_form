@@ -4,7 +4,8 @@
 This project is a simple contact form built using HTML, CSS, and JavaScript. It includes client-side validation for:
 - Empty fields (name, email, message)
 - Valid email format using regex
-- Name field accept only letters and spaces special characters and numbers are not allowed. 
+- Name field accept only letters and spaces.
+- Special characters and numbers are not allowed in name field. 
 
 ## Features
 - Real-time error messages
